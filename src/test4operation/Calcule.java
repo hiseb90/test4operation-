@@ -22,10 +22,18 @@ public class Calcule {
 			
 			
 			
+			
+			
 		}
 		
 		
+	
+	}
+	 //function for add two numbers
+	static int adding(int a,int b){
+		return a+b;
 		
 	}
+	
 	
 }
