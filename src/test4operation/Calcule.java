@@ -39,4 +39,13 @@ public class Calcule {
 	static int subtracting(int a,int b){
 		return a-b;
 	}
+	
+	//two functions for multiplication and division
+	static int division(int a,int b){
+		return a/b;
+	}
+	static int multiplication(int a,int b){
+		return a*b;
+	}
+	
 }
